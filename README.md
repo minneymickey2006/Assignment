@@ -7,9 +7,18 @@ Open a `terminal` in your prefered location on local machine and clone the repos
 ```bash
 https://github.com/minneymickey2006/Assignment.git
 
-#### Step-2
+#### Step-1 
 Please make sure the twitter.csv file is located in the location
 
-
 #### Step-3
-Open jupyter notebook or any IDE of choice to get the code
+Now we have to install all the dependencies using pip in our virtual environment from `requirements.txt`.
+Check `requirements.txt` to know what are all the dependencies used.
+```python
+pip3 install -r requirements.txt
+```
+
+#### Step-4
+Open jupyter notebook or any other IDE of choice such as Visual Studio to open Impact_Score_Prediction.ipynb
+
+#### Step-5 
+Go through 
