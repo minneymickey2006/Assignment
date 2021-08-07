@@ -7,8 +7,8 @@ Open a `terminal` in your prefered location on local machine and clone the repos
 ```bash
 https://github.com/minneymickey2006/Assignment.git
 
-#### Step-1 
-Please make sure the twitter.csv file is located in the location
+#### Step-2
+Please make sure the twitter.csv file is located at the location
 
 #### Step-3
 Now we have to install all the dependencies using pip in our virtual environment from `requirements.txt`.
