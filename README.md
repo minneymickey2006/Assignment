@@ -6,6 +6,7 @@
 Open a `terminal` in your prefered location on local machine and clone the repository and go into the directory using the command
 ```bash
 https://github.com/minneymickey2006/Assignment.git
+```
 
 #### Step-2
 Please make sure the twitter.csv file is located at the location
@@ -21,4 +22,7 @@ pip3 install -r requirements.txt
 Open jupyter notebook or any other IDE of choice such as Visual Studio to open Impact_Score_Prediction.ipynb
 
 #### Step-5 
-Go through 
+Run the code
+
+#### Step-6
+Go through Report on Twitter.docx to get more details
