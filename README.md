@@ -1,4 +1,4 @@
-## mpact Score Prediction
+## Impact Score Prediction
 
 ## Setting up in Local Machine
 
